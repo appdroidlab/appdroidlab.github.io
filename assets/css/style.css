@@ -12,6 +12,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 }
 body {
 	line-height: 1;
+	border-top: 7px solid #FFDC00;
 }
 ol, ul {
 	list-style: bullet;
@@ -109,13 +110,13 @@ h3 {
 
 /*** Structure ***/
 #page {
-	width: 500px;
+	width: 800px;
 	margin: 0 auto;
 	position: relative;
 }
 
 #header {
-	width: 500px;
+	width: 800px;
 	margin: 40px auto 50px auto;
 }
 #header h1 {
@@ -127,7 +128,7 @@ h3 {
 }
 
 #footer {
-	width: 500px;
+	width: 800px;
 	margin: 50px auto 20px auto;
 	padding-top: 10px;
 	font-size: 0.85em;
@@ -135,7 +136,7 @@ h3 {
 }
 
 #content {
-	width: 500px;
+	width: 800px;
 	margin: 0 auto;
 }
 
@@ -156,6 +157,7 @@ h3 {
 	border: none;
 	font-family: "Helvetica Neue", "Helvetica", serif;
 	font-size: 1.2em;
+	font-weight: bold;
 	padding: 2px 4px;
 }
 
