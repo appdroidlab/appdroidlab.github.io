@@ -33,7 +33,7 @@ table {
 
 /*** Basics ***/
 body {
-	font-family: Verdana, serif;
+	font-family: "Roboto",arial,sans-serif !important;
 	font-size: 13px;
 	line-height: 1.7;
 }
@@ -155,7 +155,7 @@ h3 {
 
 #sidebar a {
 	border: none;
-	font-family: "Helvetica Neue", "Helvetica", serif;
+	font-family: "Roboto",arial,sans-serif !important;
 	font-size: 1.2em;
 	font-weight: bold;
 	padding: 2px 4px;
